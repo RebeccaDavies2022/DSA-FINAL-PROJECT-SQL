@@ -118,6 +118,11 @@ All SQL queries that has been used to clean, join, analyze and generate insights
 
 [KMS Analytical File](https://drive.google.com/file/d/1WHj5xxLNAdsG1Kq29lEzn2pncb61Iksf/view?usp=sharing)
 
+#### **Preview Of The SQL Canvas**
+
+![SQL SCREENSHOT](https://github.com/user-attachments/assets/de91f35e-8a4f-491e-8f16-86ab086cf9ce)
+
+
 #### **Tools Used**
 - SQL Server
 - SSMS (SQL Server Management Studio 21)
